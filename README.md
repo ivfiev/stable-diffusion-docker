@@ -5,3 +5,6 @@
 
 # Use
 Launch web UI using the `launch.sh` script.
+
+# Helpful links
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
